@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:/demo/Examine/Examine.iml" filepath="H:/demo/Examine/Examine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Examine-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Examine-master.iml" group="Examine-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Examine-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Examine-master-app.iml" group="Examine-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
